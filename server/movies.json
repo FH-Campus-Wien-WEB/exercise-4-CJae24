@@ -105,7 +105,7 @@
         "Astrid Bergès-Frisbey",
         "Jude Law"
       ],
-      "Plot": "Robbed of his birthright, Arthur comes up the hard way in the back alleys of the city. But once he pulls the sword from the stone, he is forced to acknowledge his true legacy - whether he likes it or not.",
+      "Plot": "Robbed of his birthright, Arthur comes up the hard way in the back alleys of the city.",
       "Poster": "https://m.media-amazon.com/images/M/MV5BMjM3ODY3Njc5Ml5BMl5BanBnXkFtZTgwMjQ5NjM5MTI@._V1_SX300.jpg",
       "Metascore": 41,
       "imdbRating": 6.7
@@ -133,7 +133,7 @@
         "Jack Black",
         "Adrien Brody"
       ],
-      "Plot": "A greedy film producer assembles a team of moviemakers and sets out for the infamous Skull Island, where they find more than just cannibalistic natives.",
+      "Plot": "A greedy film producer assembles a team of moviemakers and sets out for the infamous Skull Island.",
       "Poster": "https://m.media-amazon.com/images/M/MV5BMWY0NWE0ZjUtNjRlOS00ZDViLTgxNTQtMGMwN2FhNDY1YTg2XkEyXkFqcGc@._V1_SX300.jpg",
       "Metascore": 81,
       "imdbRating": 7.2
@@ -166,6 +166,114 @@
       "Poster": "https://m.media-amazon.com/images/M/MV5BZGRiZDZhZjItM2M3ZC00Y2IyLTk3Y2MtMWY5YjliNDFkZTJlXkEyXkFqcGc@._V1_SX300.jpg",
       "Metascore": 88,
       "imdbRating": 8.5
+    }
+  },
+  "CorinnaJae": {
+    "tt1855199": {
+      "imdbID": "tt1855199",
+      "Title": "End of Watch",
+      "Released": "2012-09-21",
+      "Runtime": 109,
+      "Genres": [
+        "Action",
+        "Crime",
+        "Drama"
+      ],
+      "Directors": [
+        "David Ayer"
+      ],
+      "Writers": [
+        "David Ayer"
+      ],
+      "Actors": [
+        "Jake Gyllenhaal",
+        "Michael Peña",
+        "Anna Kendrick"
+      ],
+      "Plot": "Shot documentary-style, this film follows the daily grind of two young police officers in LA who are partners and close friends.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjMxNjU0ODU5Ml5BMl5BanBnXkFtZTcwNjI4MzAyOA@@._V1_SX300.jpg",
+      "Metascore": 68,
+      "imdbRating": 7.6
+    },
+    "tt1130884": {
+      "imdbID": "tt1130884",
+      "Title": "Shutter Island",
+      "Released": "2010-02-19",
+      "Runtime": 138,
+      "Genres": [
+        "Drama",
+        "Mystery",
+        "Thriller"
+      ],
+      "Directors": [
+        "Martin Scorsese"
+      ],
+      "Writers": [
+        "Laeta Kalogridis",
+        "Dennis Lehane"
+      ],
+      "Actors": [
+        "Leonardo DiCaprio",
+        "Emily Mortimer",
+        "Mark Ruffalo"
+      ],
+      "Plot": "Two US marshals are sent to a mental institution on an inhospitable island in order to investigate the disappearance of a patient.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BN2FjNWExYzEtY2YzOC00YjNlLTllMTQtNmIwM2Q1YzBhOWM1XkEyXkFqcGc@._V1_SX300.jpg",
+      "Metascore": 63,
+      "imdbRating": 8.2
+    },
+    "tt23561236": {
+      "imdbID": "tt23561236",
+      "Title": "Materialists",
+      "Released": "2025-06-13",
+      "Runtime": 116,
+      "Genres": [
+        "Comedy",
+        "Drama",
+        "Romance"
+      ],
+      "Directors": [
+        "Celine Song"
+      ],
+      "Writers": [
+        "Celine Song"
+      ],
+      "Actors": [
+        "Dakota Johnson",
+        "Chris Evans",
+        "Pedro Pascal"
+      ],
+      "Plot": "An ambitious young New York City matchmaker finds herself torn between the perfect match and her imperfect ex.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNmQxMTI1YmEtOGY3Yi00NzVlLWEzMjAtYTI1NWZkNDFiMDg1XkEyXkFqcGc@._V1_SX300.jpg",
+      "Metascore": 70,
+      "imdbRating": 6.3
+    },
+    "tt32897959": {
+      "imdbID": "tt32897959",
+      "Title": "Wuthering Heights",
+      "Year": 2026,
+      "Released": "13 Feb 2026",
+      "Runtime": null,
+      "Directors": [
+        "Emerald Fennell"
+      ],
+      "Writers": [
+        "Emily Brontë",
+        "Emerald Fennell"
+      ],
+      "Actors": [
+        "Margot Robbie",
+        "Jacob Elordi",
+        "Hong Chau"
+      ],
+      "Genres": [
+        "Drama",
+        "Romance"
+      ],
+      "Plot": "A passionate and tumultuous love story set against the backdrop of the Yorkshire moors, exploring the intense and destructive relationship between Heathcliff and Catherine Earnshaw.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMGFlMTVkMDktZGMzMC00Yjk4LWFmNzEtNTFmMzM2YzM3MWFkXkEyXkFqcGc@._V1_QL75_UY562_CR35,0,380,562_.jpg",
+      "Metascore": 55,
+      "imdbRating": 6.2
     }
   }
 }
